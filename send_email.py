@@ -6,10 +6,10 @@ import pandas as pd
 
 # SMTP Service
 mail_host = "smtp.qq.com"               # SMTP server, take QQ as example
-mail_user = "1029639150@qq.com"         # user
-mail_pass = "rywtxizulcqibeci"             # note:Authorization Code，not password
+mail_user = "xxx@qq.com"                # user
+mail_pass = "xxxxxxxxxx"                # note:Authorization Code，not password
 
-sender = "1029639150@qq.com"                   # sender email
+sender = "xxx@qq.com"                   # sender email
 
 #get receiver email from cvs file
 def get_email():
